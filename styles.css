@@ -1,0 +1,104 @@
+body{
+  padding: 30px;
+  background-color: #FAF9F6;
+  overflow-y: auto;
+}
+.img1{
+	width: 130px;
+	height: 130px;
+	border-radius: 10px;
+}
+.img2{
+	width: 30px;
+	height: 67px;
+	border-radius: 10px;
+}
+.name{
+  position: fixed;
+  top: 37px;
+  left: 180px;
+  padding: 20px;
+  width: 300px;
+  background-color: #5C4033;
+  color: white;
+}
+.num{
+  position: fixed;
+  top: 105px;
+  left: 210px;
+}
+.mail{
+  position: fixed;
+  top: 125px;
+  left: 215px;
+}
+.address{
+  position: fixed;
+  top: 150px;
+  left: 215px;
+  font-size: 13px;
+}
+.hr1{
+  position: fixed;
+  top: 165px;
+  border: 2px solid black;
+  width: 500px;
+}
+h2{
+  color: #5C4033;
+}
+p{
+  position: fixed;
+  top: 170px;
+  left: 180px;
+  width: 310px;
+  text-align: justify;
+  font-size: 11px;
+}
+.hr2{
+  border: 2px solid black;
+  width: 500px;
+  position: fixed;
+  top: 255px;
+}
+.skills{
+  position: fixed;
+  bottom: 170px;
+  color: #5C4033;
+}
+.a{
+  position: fixed;
+  bottom: 95px;
+  left: 10px;
+  font-size: 11px;
+}
+.b{
+  position: fixed;
+  bottom: 80px;
+  left: 300px;
+  font-size: 11px;
+}
+.hr3{
+  border: 2px solid black;
+  width: 500px;
+  position: fixed;
+  bottom: 70px;
+}
+.educ{
+  position: fixed;
+  bottom: 35px;
+  color: #5C4033;
+  font-size: 20px;
+}
+.years{
+  position: fixed;
+  bottom: -8px;
+  font-size: 12px;
+  left: 150px;
+}
+.schools{
+  position: fixed;
+  bottom: -3px;
+  font-size: 10px;
+  left: 250px;
+}
